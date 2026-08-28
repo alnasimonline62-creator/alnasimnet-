@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nasim Online",
+  "description": "Nasim\u0027s personalized online digital presence, profile hub, and smart AI chat companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
